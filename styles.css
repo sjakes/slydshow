@@ -232,7 +232,7 @@ body {
     gap: 8px;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 .platform-badge {
@@ -242,14 +242,6 @@ body {
     font-size: 12px;
     font-weight: 600;
     color: var(--text-dark);
-}
-
-.app-languages {
-    display: flex;
-    gap: 12px;
-    justify-content: center;
-    margin-bottom: 24px;
-    font-size: 14px;
 }
 
 /* Features Section */
