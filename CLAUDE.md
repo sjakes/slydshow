@@ -1,3 +1,5 @@
+> ✅ 이 프로젝트는 루트 `GitHub/CLAUDE.md`의 공통 커밋 규칙을 따른다.
+
 # Slyd.Show
 
 **슬로건**: "Simple. Strong. Stunning. Your moments, in motion."
